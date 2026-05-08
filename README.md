@@ -31,10 +31,7 @@ component yapısını geliştirmek ve kullanıcı odaklı arayüz deneyimi oluş
 <li>React</li>
 <li>CSS3</li>
 <li>JavaScript (ES6+)</li>
-<li>Node.js</li>
-<li>Express.js</li>
-<li>MongoDB</li>
-<li>Socket.io</li>
+<li>React Router DOM</li>
 <li>Axios</li>
 </ul>
 
